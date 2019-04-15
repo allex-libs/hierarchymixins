@@ -1,0 +1,28 @@
+{
+  "name": "allex_hierarchymixinslib",
+  "version": "1.0.0",
+  "description": "AllexJS lib that implements the allex_hierarchymixinslowlevellib",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "allex_hierarchymixinslowlevellib": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allex-libs/hierarchymixins.git"
+  },
+  "keywords": [
+    "ecosystem:AllexJS",
+    "hierarchy",
+    "mixins",
+    "lib"
+  ],
+  "author": "Andrija Petrovic <andrija.hers@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allex-libs/hierarchymixins/issues"
+  },
+  "homepage": "https://github.com/allex-libs/hierarchymixins#readme"
+}
